@@ -1,0 +1,5 @@
+Vetor ordenado:
+abacate abacaxi amora banana caqui cereja figo framboesa goiaba kiwi laranja limao maca manga melancia morango papaya pera pessego uva 
+Numero de comparacoes: 0
+Numero de trocas: 0
+Mediana: laranja
